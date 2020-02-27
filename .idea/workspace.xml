@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ac91c52-9f75-4b07-bcf4-6b4a9d1102aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YFbFt5EUVtSoC3sjsWlcgp0Kl1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.MadisonTest.checkCheckout">
+    <configuration name="MadisonTest.Checkout" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seleniumNewProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MadisonTest" />
+      <option name="METHOD_NAME" value="Checkout" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MadisonTest.checkCheckout" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seleniumNewProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MadisonTest" />
+      <option name="METHOD_NAME" value="checkCheckout" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MadisonTest.checkHomePage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seleniumNewProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MadisonTest" />
+      <option name="METHOD_NAME" value="checkHomePage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MadisonTest.checkNewProducts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seleniumNewProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MadisonTest" />
+      <option name="METHOD_NAME" value="checkNewProducts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MadisonTest.navigation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seleniumNewProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MadisonTest" />
+      <option name="METHOD_NAME" value="navigation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MadisonTest.checkCheckout" />
+        <item itemvalue="JUnit.MadisonTest.checkHomePage" />
+        <item itemvalue="JUnit.MadisonTest.navigation" />
+        <item itemvalue="JUnit.MadisonTest.Checkout" />
+        <item itemvalue="JUnit.MadisonTest.checkNewProducts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ac91c52-9f75-4b07-bcf4-6b4a9d1102aa" name="Default Changelist" comment="" />
+      <created>1582541188850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582541188850</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1582699557025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582699557025" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1582787844070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582787844070" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1582787844070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582787844070" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1582787844070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582787844070" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1582787844070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582787844070" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1582557987135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582557987135" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1582557987135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582557987135" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1582557987135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582557987135" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1582557987135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582557987135" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582786843224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582786843224" />
+    <state x="342" y="215" key="new project wizard" timestamp="1582632729236">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="215" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1582632729236" />
+  </component>
+</project>
